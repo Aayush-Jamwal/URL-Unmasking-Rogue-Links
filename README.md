@@ -20,7 +20,11 @@ URL is a Chrome extension that helps users identify and avoid phishing websites.
 
 
 🏗️ Installation
+
 Open Chrome and go to chrome://extensions/.
+
 Enable Developer Mode (toggle in the top-right corner).
+
 Click Load Unpacked and select the project frontend folder.
+
 The URL extension should now be visible in your Chrome toolbar!
