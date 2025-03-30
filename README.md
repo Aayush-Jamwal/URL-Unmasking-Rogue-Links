@@ -21,10 +21,10 @@ URL is a Chrome extension that helps users identify and avoid phishing websites.
 
 🏗️ Installation
 
-Open Chrome and go to chrome://extensions/.
+1.Open Chrome and go to chrome://extensions/.
 
-Enable Developer Mode (toggle in the top-right corner).
+2.Enable Developer Mode (toggle in the top-right corner).
 
-Click Load Unpacked and select the project frontend folder.
+3.Click Load Unpacked and select the project frontend folder.
 
-The URL extension should now be visible in your Chrome toolbar!
+4.The URL extension should now be visible in your Chrome toolbar!
