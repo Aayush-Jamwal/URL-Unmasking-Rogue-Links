@@ -19,19 +19,6 @@ URL is a Chrome extension that helps users identify and avoid phishing websites.
 ✅ Offline Mode – Works without an internet connection (model runs locally).
 
 
-
-
-📊 Model & Detection Logic:
-URL uses a Random Forest model trained on various website attributes:
--URL-Based Features: Length, number of dots, presence of ‘@’, etc.
-
--HTML & Form Features: Login form detection, multiple redirects, etc.
-
--Security Features: Presence of HTTPS, SSL certificate validation.
-
--When a user visits a site, these features are extracted and passed through the model, which classifies the site as legitimate (✔️) or phishing (❌).
-
-
 🏗️ Installation
 Open Chrome and go to chrome://extensions/.
 Enable Developer Mode (toggle in the top-right corner).
